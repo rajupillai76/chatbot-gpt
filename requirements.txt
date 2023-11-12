@@ -1,0 +1,8 @@
+# https://iscompatible.readthedocs.io/en/latest/
+openai==0.28.1
+PyPDF==3.17.0
+langchain==0.0.330
+llama-index==0.8.59
+gradio==4.1.1
+sqlalchemy==2.0.23
+psycopg2
